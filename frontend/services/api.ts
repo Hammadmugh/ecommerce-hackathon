@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API_BASE_URL =
-  import.meta.env.VITE_API_URL || "https://ecommerce-backend-ebon-three.vercel.app/";
+  import.meta.env.VITE_API_URL || "https://ecommerce-backend-ebon-three.vercel.app";
 
 // Create an Axios instance
 const api = axios.create({

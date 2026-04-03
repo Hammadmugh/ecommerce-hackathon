@@ -107,6 +107,17 @@ const Login: React.FC = () => {
                     <Typography sx={{ color: "var(--color-text-muted)", fontSize: "0.875rem", mt: 0.5 }}>
                         Sign in to your Portal account
                     </Typography>
+                    <Box sx={{ mt: 1.5, p: 1.5, bgcolor: "var(--color-bg)", borderRadius: "var(--radius-xl)", border: "1px solid var(--color-border)" }}>
+                        <Typography sx={{ fontSize: "0.75rem", color: "var(--color-text-muted)", fontWeight: 600, mb: 0.5 }}>
+                            Admin Credentials
+                        </Typography>
+                        <Typography sx={{ fontSize: "0.75rem", color: "var(--color-text-secondary)" }}>
+                            Email: hammad@gmail.com
+                        </Typography>
+                        <Typography sx={{ fontSize: "0.75rem", color: "var(--color-text-secondary)" }}>
+                            Password: Hammad@123
+                        </Typography>
+                    </Box>
                 </Box>
 
                 {/* Form */}
