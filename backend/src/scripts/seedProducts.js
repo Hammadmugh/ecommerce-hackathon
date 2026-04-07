@@ -29,7 +29,7 @@ const products = (catMap) => [
     ingredients: "Ceylon tea, ginger, cinnamon, cardamom",
     tags: ["spicy", "warming", "chai"],
     rating: 4.8,
-    images: ["https://images.unsplash.com/photo-1594631252845-29fc4586d51c?q=80&w=600&auto=format&fit=crop"],
+    images: ["https://images.unsplash.com/photo-1571934811356-5cc061b6821f?q=80&w=600&auto=format&fit=crop"],
     variants: [
       { sku: "CGCC-50G", label: "50 g bag", weightGrams: 50, priceDelta: 0, stockQuantity: 50 },
       { sku: "CGCC-100G", label: "100 g bag", weightGrams: 100, priceDelta: 2.50, stockQuantity: 30 },
@@ -52,7 +52,7 @@ const products = (catMap) => [
     ingredients: "Assam tea, cardamom, cloves, cinnamon, black pepper, ginger",
     tags: ["spicy", "bold", "chai", "indian"],
     rating: 4.6,
-    images: ["https://images.unsplash.com/photo-1556679343-c7306c1976bc?q=80&w=600&auto=format&fit=crop"],
+    images: ["https://images.unsplash.com/photo-1571934811356-5cc061b6821f?q=80&w=600&auto=format&fit=crop"],
     variants: [
       { sku: "MCC-50G", label: "50 g bag", weightGrams: 50, priceDelta: 0, stockQuantity: 40 },
       { sku: "MCC-100G", label: "100 g bag", weightGrams: 100, priceDelta: 2.80, stockQuantity: 25 },
@@ -74,7 +74,7 @@ const products = (catMap) => [
     ingredients: "Sencha green tea leaves",
     tags: ["japanese", "green", "fresh"],
     rating: 4.9,
-    images: ["https://images.unsplash.com/photo-1563822249366-3efb23b8e0c9?q=80&w=600&auto=format&fit=crop"],
+    images: ["https://images.unsplash.com/photo-1571934811356-5cc061b6821f?q=80&w=600&auto=format&fit=crop"],
     variants: [
       { sku: "SJG-50G", label: "50 g bag", weightGrams: 50, priceDelta: 0, stockQuantity: 60 },
       { sku: "SJG-100G", label: "100 g bag", weightGrams: 100, priceDelta: 3.50, stockQuantity: 35 },
@@ -118,7 +118,7 @@ const products = (catMap) => [
     ingredients: "Chamomile flowers, lavender, lemon balm",
     tags: ["floral", "calming", "sleep"],
     rating: 4.9,
-    images: ["https://images.unsplash.com/photo-1436076863939-06870fe779c2?q=80&w=600&auto=format&fit=crop"],
+    images: ["https://images.unsplash.com/photo-1571934811356-5cc061b6821f?q=80&w=600&auto=format&fit=crop"],
     variants: [
       { sku: "CLH-50G", label: "50 g bag", weightGrams: 50, priceDelta: 0, stockQuantity: 70 },
       { sku: "CLH-100G", label: "100 g bag", weightGrams: 100, priceDelta: 2.50, stockQuantity: 40 },
@@ -141,7 +141,7 @@ const products = (catMap) => [
     ingredients: "Darjeeling first flush tea",
     tags: ["premium", "darjeeling", "black"],
     rating: 4.8,
-    images: ["https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=600&auto=format&fit=crop"],
+    images: ["https://images.unsplash.com/photo-1571934811356-5cc061b6821f?q=80&w=600&auto=format&fit=crop"],
     variants: [
       { sku: "DFF-50G", label: "50 g bag", weightGrams: 50, priceDelta: 0, stockQuantity: 25 },
       { sku: "DFF-100G", label: "100 g bag", weightGrams: 100, priceDelta: 4.00, stockQuantity: 15 },
